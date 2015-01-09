@@ -52,7 +52,7 @@ TEMPLATE_LOADERS = (
 MIDDLEWARE_CLASSES = (
 )
 
-ROOT_URLCONF = 'codefish.urls'
+ROOT_URLCONF = 'whatpageofsearchamion.urls'
 
 TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates')]
 
