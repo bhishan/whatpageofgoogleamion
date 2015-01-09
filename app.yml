@@ -1,4 +1,4 @@
-application: deploying-django
+application: my-whatpageofgoogleamion
 runtime: python
 version: 1
 api_version: 1
