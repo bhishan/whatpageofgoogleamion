@@ -56,7 +56,5 @@ ROOT_URLCONF = 'whatpageofsearchamion.urls'
 
 TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates')]
 
-INSTALLED_APPS = (
-    'whatpageofsearchamion'
-)
+INSTALLED_APPS = ('whatpageofsearchamion',)
 
