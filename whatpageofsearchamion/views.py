@@ -1,8 +1,8 @@
+import mechanize
 from django.shortcuts import render_to_response
 from django.http import HttpResponseRedirect
 from django.template import RequestContext
 
-import mechanize
 pos_in_search = 0
 
 
